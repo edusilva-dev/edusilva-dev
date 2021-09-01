@@ -1,4 +1,4 @@
-## Olá! Eu sou o Eduardo Silva!
+## Olá! Eu me chamo Eduardo Silva e sou desenvolvedor front-end
 <div>
   <a href="https://github.com/edusilva-dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edusilva-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
