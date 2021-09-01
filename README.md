@@ -1,8 +1,8 @@
 ## Olá! Eu me chamo Eduardo Silva e sou desenvolvedor front-end
 <div>
   <a href="https://github.com/edusilva-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edusilva-dev&show_icons=true&theme=moonlight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edusilva-dev&layout=compact&langs_count=7&theme=moonlight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edusilva-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edusilva-dev&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
 <div style="display: inline_block"><br>
